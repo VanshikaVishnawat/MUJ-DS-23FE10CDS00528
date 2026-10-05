@@ -1,0 +1,12 @@
+streamlit>=1.40.0
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai>=4.0.0
+google-genai
+langchain-huggingface
+sentence-transformers
+faiss-cpu>=1.8.0
+pypdf>=4.0.0
+python-dotenv>=1.0.0
+openai>=1.40.0
